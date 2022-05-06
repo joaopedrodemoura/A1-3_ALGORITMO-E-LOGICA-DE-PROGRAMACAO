@@ -11,7 +11,7 @@ int main(void)
   int temp;
   char s, n, situ, situ2;
   
-  printf("\nO PACIENTE ESTA SE SENTINDO BEM?: ");
+  printf("\nO PACIENTE ESTA SE  BEM?: ");
   scanf("%c" ,&situ);
   
   if ( situ == 's' )
